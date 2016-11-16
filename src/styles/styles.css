@@ -1,10 +1,14 @@
 #app{
-  background-color: darkgray;
+  background-color: white;
   font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #4d4d4d;
   min-width: 550px;
   max-widht: 850px;
   margin: 0 auto;
+}
+
+.table {
+  background: transparent;
 }
 
 a.active {
