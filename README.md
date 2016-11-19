@@ -1,1 +1,1 @@
-"# Video Playlist Manager App" 
+### Video Playlist Manager App in React/Redux
