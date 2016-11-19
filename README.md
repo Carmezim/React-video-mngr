@@ -1,1 +1,1 @@
-"# video-mngr" 
+"# Video Playlist Manager App" 
